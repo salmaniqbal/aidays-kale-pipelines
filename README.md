@@ -1,3 +1,3 @@
 #KALE
 
-Kale notebook and it's compiled pipeline
+Kale notebook and its compiled pipeline
